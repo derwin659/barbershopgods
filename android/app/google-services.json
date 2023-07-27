@@ -1,0 +1,102 @@
+{
+  "project_info": {
+    "project_number": "83518209499",
+    "firebase_url": "https://gods-41390-default-rtdb.firebaseio.com",
+    "project_id": "gods-41390",
+    "storage_bucket": "gods-41390.appspot.com"
+  },
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83518209499:android:ca7a63bda9b29a3a2b3bfe",
+        "android_client_info": {
+          "package_name": "com.barbershopgods.barberia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83518209499-meod33v6def0sp38djjf4smrsai397q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barbershopgods.barberia",
+            "certificate_hash": "e332101d2e58d62f414ff30704553d25d485b51e"
+          }
+        },
+        {
+          "client_id": "83518209499-om5kml6kn6fncancloojqeh6vfd6jfi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barbershopgods.barberia",
+            "certificate_hash": "ea20dd7a5f294615528b99c122df474c2257323d"
+          }
+        },
+        {
+          "client_id": "83518209499-mcr1r922epf84vkk9033p6t5r2ncvnnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUIg4mLtwsnZCm8WnhIJ37rmOXNQBpl1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83518209499-mcr1r922epf84vkk9033p6t5r2ncvnnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83518209499:android:38f02825e0a8ad1d2b3bfe",
+        "android_client_info": {
+          "package_name": "com.example.barberia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83518209499-0qohqf48hfc110r0vuotta66kf8afjed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barberia",
+            "certificate_hash": "e332101d2e58d62f414ff30704553d25d485b51e"
+          }
+        },
+        {
+          "client_id": "83518209499-i722qo51qfhmtaii5tlbbrlduoo2uh7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barberia",
+            "certificate_hash": "ea20dd7a5f294615528b99c122df474c2257323d"
+          }
+        },
+        {
+          "client_id": "83518209499-mcr1r922epf84vkk9033p6t5r2ncvnnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUIg4mLtwsnZCm8WnhIJ37rmOXNQBpl1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83518209499-mcr1r922epf84vkk9033p6t5r2ncvnnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
